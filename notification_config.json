@@ -1,0 +1,1 @@
+{"LambdaFunctionConfigurations": [{"LambdaFunctionArn": "arn:aws:lambda:us-west-2:935670829844:function:glue_dynamo_trigger", "Events": ["s3:ObjectCreated:*"]}]}
